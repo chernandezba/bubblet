@@ -1,0 +1,8 @@
+MIDlet-1: Bubblet, Bubblet.png, Bubblet
+MIDlet-Description: Bubblet game
+MIDlet-Info-URL: http://geocities.com/chernandezba/Bubblet.jar
+MIDlet-Name: Bubblet
+MIDlet-Vendor: Cesar Hernandez
+MIDlet-Version: 0.6
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
